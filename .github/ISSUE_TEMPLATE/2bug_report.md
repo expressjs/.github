@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Have you found a bug?
+about: Do you believe you have found a bug?
 labels: bug
 ---
 
