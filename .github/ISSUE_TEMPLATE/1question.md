@@ -6,7 +6,10 @@ labels: question
 
 <!-- We can't debug your app for you, but you can ask questions and we will try to answer them.
 
-You can also ask a question in the [Node.js Slack](http://www.nodeslackers.com/invite) community's #express channel.
+You can also ask a question in the Node.js Slack community's #express-js channel:
+
+* Slack invite form: http://www.nodeslackers.com/invite
+* #express-js channel: https://node-js.slack.com/archives/C0L827VV4
 
 It is super important that you paste in samples of your code (please avoid screenshots of code)!
 Without seeing what your code looks like, we won't be able to help you very much.
