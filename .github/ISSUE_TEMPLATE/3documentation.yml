@@ -6,15 +6,7 @@ body:
     attributes:
       value: |
         Thank you for submitting this issue! We'll try to triage it ASAP!
-        Please do not submit bug reports or feature requests about the package itself.  
-  - type: input
-    id: documentation-url
-    attributes:
-      label: Documentation URL
-      description: Please provide a link to the documentation page where the issue is found
-      placeholder: https://expressjs.com/en/starter/hello-world
-    validations:
-      required: true
+        Please do not submit bug reports or feature requests about the package itself.
   - type: textarea
     id: description
     attributes:
