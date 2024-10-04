@@ -6,7 +6,6 @@ body:
     attributes:
       value: |
         Thank you for submitting this issue! We'll try to triage it ASAP!
-        Please do not submit bug reports or feature requests about the package itself.
   - type: textarea
     id: description
     attributes:
