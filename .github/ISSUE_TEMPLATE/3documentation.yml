@@ -1,0 +1,22 @@
+name: Documentation issue
+description: Report a possible issue in the documentation
+labels: doc
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for submitting this issue! We'll try to triage it ASAP!
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a description of the issue
+    validations:
+      required: true
+  - type: textarea
+    id: expectations
+    attributes:
+      label: Expectations
+      description: Describe the expected behavior
+    validations:
+      required: true
