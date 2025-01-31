@@ -16,7 +16,26 @@ type: Bug
 ## Environment information
 
 **Version**:
+<!-- 
+To find the installed version of a package, you can check the `package.json` file in the root directory of your project. The version will be listed under `dependencies` or `devDependencies`, like this:
+
+```json
+"dependencies": {
+  "express": "4.18.2"
+}
+-->
+
 **Platform**:
+<!-- 
+UNIX: output of uname -a
+Windows: output of "$([Environment]::OSVersion.VersionString) $(('x86', 'x64')[[Environment]::Is64BitOperatingSystem])" in PowerShell console 
+-->
+
 **Node.js version**:
+<!-- 
+Output of node -v.
+-->
+
+**Any other relevant information**:
 
 ## What steps will reproduce the bug?
