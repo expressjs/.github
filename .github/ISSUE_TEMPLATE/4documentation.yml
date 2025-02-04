@@ -1,6 +1,6 @@
 name: Documentation issue
 description: Report a possible issue in the documentation
-labels: doc
+labels: ["doc", "require-triage"]
 body:
   - type: markdown
     attributes:
