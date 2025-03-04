@@ -22,8 +22,11 @@ link or an attachment.
 
 A [Security triage team member](https://github.com/expressjs/security-wg#security-triage-team) 
 or [the repo captain](https://github.com/expressjs/express/blob/master/Contributing.md#active-projects-and-captains) 
-will acknowledge your email within 3 working days, and will send a more detailed 
+will acknowledge your email within 5 working days, and will send a more detailed 
 response within 7 working days indicating the next steps in handling your report. 
+These timelines may extend when our triage 
+volunteers are away on holiday, particularly at the end of the year.
+
 After the initial reply to your report, the security team will
 endeavor to keep you informed of the progress towards a fix and full
 announcement, and may ask for additional information or guidance.
