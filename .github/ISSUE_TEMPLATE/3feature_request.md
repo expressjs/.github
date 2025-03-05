@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Do you want to make a feature request?
-labels: ideas
+labels: ["ideas", "require-triage"]
 ---
 
 <!-- Please provide as much detailed information about your request as you can, specifically:

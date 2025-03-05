@@ -1,7 +1,7 @@
 ---
 name: Question
 about: Seeking help or have a question about usage?
-labels: question
+labels: ["question", "require-triage"]
 ---
 
 <!-- We can't debug your app for you, but you can ask questions and we will try to answer them.
