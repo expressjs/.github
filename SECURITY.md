@@ -22,14 +22,16 @@ link or an attachment.
 
 A [Security triage team member](https://github.com/expressjs/security-wg#security-triage-team) 
 or [the repo captain](https://github.com/expressjs/express/blob/master/Contributing.md#active-projects-and-captains) 
-will acknowledge your email within 5 working days, and will send a more detailed 
-response within 7 working days indicating the next steps in handling your report. 
+will acknowledge your email as soon as possible. 
 These timelines may extend when our triage 
 volunteers are away on holiday, particularly at the end of the year.
 
 After the initial reply to your report, the security team will
 endeavor to keep you informed of the progress towards a fix and full
 announcement, and may ask for additional information or guidance.
+
+> [!NOTE]  
+> You can find more information about our process in [this guide](https://github.com/expressjs/security-wg/blob/main/docs/handle_security_reports.md)
 
 Report security bugs in third-party modules to the person or team maintaining
 the module.
