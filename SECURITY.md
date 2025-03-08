@@ -3,7 +3,7 @@
 This document outlines security procedures and general policies for the Express
 project.
 
-  * [Reporting a Bug](#reporting-a-bug)
+  * [Reporting a Bug or Security Vulnerability](#reporting-a-bug-or-security-vulnerability)
   * [Disclosure Policy](#disclosure-policy)
   * [Comments on this Policy](#comments-on-this-policy)
 
