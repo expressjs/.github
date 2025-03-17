@@ -14,7 +14,9 @@
 - [`expressjs/discussions`](https://github.com/expressjs/discussions): @wesleytodd
 - [`expressjs/errorhandler`](https://github.com/expressjs/errorhandler): @ulisesGascon
 - [`expressjs/express-paginate`](https://github.com/expressjs/express-paginate): @ulisesGascon
-- [`expressjs/express`](https://github.com/expressjs/express): @wesleytodd, @ulisesGascon
+- [`expressjs/express`](https://github.com/expressjs/express):
+    - captains: @wesleytodd, @ulisesGascon
+    - committers: @bjohansebas, @Phillip9587
 - [`expressjs/expressjs.com`](https://github.com/expressjs/expressjs.com):
     - captains: @crandmck, @jonchurch, @bjohansebas
     - committers: @carlosstenzel, @chrisdel101
@@ -61,7 +63,9 @@
 - [`pillarjs/cookies`](https://github.com/pillarjs/cookies): @blakeembrey
 - [`pillarjs/csrf`](https://github.com/pillarjs/csrf): @ulisesGascon
 - [`pillarjs/encodeurl`](https://github.com/pillarjs/encodeurl): @blakeembrey
-- [`pillarjs/finalhandler`](https://github.com/pillarjs/finalhandler): @wesleytodd, @ulisesGascon
+- [`pillarjs/finalhandler`](https://github.com/pillarjs/finalhandler):
+    - captains: @wesleytodd, @ulisesGascon
+    - committers: @bjohansebas, @Phillip9587
 - [`pillarjs/hbs`](https://github.com/pillarjs/hbs): @ulisesGascon
 - [`pillarjs/multiparty`](https://github.com/pillarjs/multiparty): @blakeembrey
 - [`pillarjs/parseurl`](https://github.com/pillarjs/parseurl): @blakeembrey
