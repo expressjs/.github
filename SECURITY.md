@@ -20,11 +20,18 @@ To ensure the timely response to your report, please ensure that the entirety
 of the report is contained within the email body and not solely behind a web
 link or an attachment.
 
-The lead maintainer will acknowledge your email within 48 hours, and will send a
-more detailed response within 48 hours indicating the next steps in handling
-your report. After the initial reply to your report, the security team will
+A [Security triage team member](https://github.com/expressjs/security-wg#security-triage-team) 
+or [the repo captain](https://github.com/expressjs/express/blob/master/Contributing.md#active-projects-and-captains) 
+will acknowledge your email as soon as possible. 
+These timelines may extend when our triage 
+volunteers are away on holiday, particularly at the end of the year.
+
+After the initial reply to your report, the security team will
 endeavor to keep you informed of the progress towards a fix and full
 announcement, and may ask for additional information or guidance.
+
+> [!NOTE]  
+> You can find more information about our process in [this guide](https://github.com/expressjs/security-wg/blob/main/docs/handle_security_reports.md)
 
 Report security bugs in third-party modules to the person or team maintaining
 the module.
