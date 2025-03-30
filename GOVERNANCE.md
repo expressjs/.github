@@ -149,11 +149,11 @@ proper GitHub/npm groups.
 
 ### Active Projects and Captains
 
-The list can be found at [https://github.com/expressjs/.github/blob/main/captains_and_committers.md#active-projects-and-members](https://github.com/expressjs/.github/blob/main/captains_and_committers.md#active-projects-and-members)
+The list can be found at [https://github.com/expressjs/discussions/blob/HEAD/docs/contributing/captains_and_committers.md#active-projects-and-members](https://github.com/expressjs/discussions/blob/HEAD/docs/contributing/captains_and_committers.md#active-projects-and-members)
 
 ### Current Initiative Captains
 
-The list can be found at [https://github.com/expressjs/.github/blob/main/captains_and_committers.md#current-initiative-captains](https://github.com/expressjs/.github/blob/main/captains_and_committers.md#current-initiative-captains)
+The list can be found at [https://github.com/expressjs/discussions/blob/HEAD/docs/contributing/captains_and_committers.md#current-initiative-captains](https://github.com/expressjs/discussions/blob/HEAD/docs/contributing/captains_and_committers.md#current-initiative-captains)
 
 ## Developer's Certificate of Origin 1.1
 
