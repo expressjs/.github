@@ -14,6 +14,20 @@ Thank you for improving the security of Express and related projects.
 We appreciate your efforts in responsible disclosure and will make every effort 
 to acknowledge your contributions.  
 
+A [Security triage team member](https://github.com/expressjs/security-wg#security-triage-team) 
+or [the repo captain](https://github.com/expressjs/express/blob/master/Contributing.md#active-projects-and-captains) 
+will acknowledge your report as soon as possible. 
+These timelines may extend when our triage 
+volunteers are away on holiday, particularly at the end of the year.
+
+After the initial reply to your report, the security team will
+endeavor to keep you informed of the progress towards a fix and full
+announcement, and may ask for additional information or guidance.
+
+> [!NOTE]  
+> You can find more information about our process in [this guide](https://github.com/expressjs/security-wg/blob/main/docs/handle_security_reports.md)
+
+
 ### Reporting Security Bugs via GitHub Security Advisory (Preferred)  
 
 The preferred way to report security vulnerabilities is through 
@@ -41,7 +55,6 @@ The lead maintainer will acknowledge your email within 48 hours and provide an i
 ### Third-Party Modules  
 
 If the security issue pertains to a third-party module that is not directly maintained within the Express ecosystem, please report it to the maintainers of that module.  
-
 
 ## Disclosure Policy
 
