@@ -1,7 +1,7 @@
 ---
 name: 🐛 Bug Report
 about: Do you believe you have found a bug?
-labels: bug
+labels: ["bug", "require-triage"]
 type: Bug
 ---
 
