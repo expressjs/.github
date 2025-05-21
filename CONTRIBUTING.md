@@ -51,3 +51,11 @@ Things that will help get your question issue looked at:
 
 If you post a question and do not outline the above items or make it easy for
 us to understand and reproduce your issue, it will be closed.
+
+If your question meets all of the above requirements but you do not believe it needs to be looked at
+by the maintainers
+(for example, if you are just looking for community input) please open it as a discussion topic instead
+of an issue. If you
+are unsure and open an issue, we may move it to discussions if we triage them and decide they do
+not need high
+visibility or maintainer input. 
