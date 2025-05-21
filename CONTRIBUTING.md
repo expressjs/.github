@@ -20,7 +20,7 @@ a future release of Express.
 
 ## Steps for contributing
 
-1. [Create an issue](https://github.com/expressjs/express/issues/new) for the
+1. Create an issue for the
    bug you want to fix or the feature that you want to add.
 2. Create your own [fork](https://github.com/expressjs/express) on GitHub, then
    checkout your fork.
