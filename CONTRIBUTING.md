@@ -4,6 +4,8 @@
 
 Open issues for the expressjs.com website in https://github.com/expressjs/expressjs.com.
 
+For issues in other Express managed repos (everything in `expressjs`, `pillarjs` or `jshttp` other than `expressjs/express`), be sure to check their contributing guide and open issues and PRs in the appropriate repository.
+
 ## PRs and Code contributions
 
 * Tests must pass.
