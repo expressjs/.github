@@ -56,6 +56,12 @@ The lead maintainer will acknowledge your email within 48 hours and provide an i
 
 If the security issue pertains to a third-party module that is not directly maintained within the Express ecosystem, please report it to the maintainers of that module.  
 
+## Pre-release Versions
+
+Alpha and Beta releases are unstable and **not suitable for production use**.
+Vulnerabilities found in pre-releases should be reported according to the [Reporting a Bug](#reporting-a-bug-or-security-vulnerability) section.
+Due to the unstable nature of the branch it is not guaranteed that any fixes will be released in the next pre-release.
+
 ## Disclosure Policy
 
 When the security team receives a security bug report, they will assign it to a
