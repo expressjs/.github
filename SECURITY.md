@@ -15,7 +15,7 @@ We appreciate your efforts in responsible disclosure and will make every effort
 to acknowledge your contributions.  
 
 A [Security triage team member](https://github.com/expressjs/security-wg#security-triage-team) 
-or [the repo captain](https://github.com/expressjs/express/blob/master/Contributing.md#active-projects-and-captains) 
+or [the repo captain](https://github.com/expressjs/discussions/blob/HEAD/docs/contributing/captains_and_committers.md) 
 will acknowledge your report as soon as possible. 
 These timelines may extend when our triage 
 volunteers are away on holiday, particularly at the end of the year.
