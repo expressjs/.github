@@ -1,0 +1,63 @@
+name: 🐛 Bug Report
+title: '🐛 Bug: <short description of the bug>'
+about: Do you believe you have found a bug?
+labels: 
+  - 'require-triage'
+type: Bug
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting a bug! Please fill out the following sections to help us understand the issue.
+
+  - type: checkboxes
+    attributes:
+      description: If any of these required steps are missed, we might not be able to review your issue.
+      label: Bug Report Checklist
+      options:
+        - label: I have read and agree to Express's [Code of Conduct](https://github.com/expressjs/.github/blob/master/CODE_OF_CONDUCT.md)
+          required: true
+        - label: I have searched for related issues but none matched my issue.
+          required: true
+
+  - type: input
+    attributes:
+      label: Version
+      description: |
+        To check the installed version, you can use the following command: `npm ls name-of-package name-of-othe-package`
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Platform
+      render: text
+      description: |
+        UNIX: output of `uname -a`
+        Windows: output of `"$([Environment]::OSVersion.VersionString) $(('x86', 'x64')[[Environment]::Is64BitOperatingSystem])"` in PowerShell console
+
+  - type: input
+    attributes:
+      label: Node.js version
+      description: |
+        Output of `node -v`.
+
+  - type: textarea
+    attributes:
+      label: What is the current behavior?
+      description: |
+        Please describe the current behavior of the application, including any error messages or unexpected results.
+    validations:
+      required: true
+
+  - type: textarea
+    labels: Minimal, Reproducible Example
+    attributes:
+      label: What steps will reproduce the bug?
+      description: |
+        Please provide detailed steps to reproduce the problem.
+
+        To help us understand and fix the issue efficiently, please create a [MCVE](https://stackoverflow.com/help/mcve).
+    validations:
+      required: true
