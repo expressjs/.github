@@ -1,6 +1,6 @@
 name: 🚀 Feature Request
 title: '🚀 feature: <short description of the feature>'
-about: Do you want to make a feature request?
+description: 'Do you want to make a feature request?'
 type: Feature
 labels: 
   - "ideas"
@@ -27,8 +27,8 @@ body:
     validations:
       required: true
   - type: textarea
-    attribute:
-      description: |
+    attributes:
+      description: Please describe the feature you would like to see implemented.
       label: How should this be implemented in your opinion?
   - type: textarea
     attributes:

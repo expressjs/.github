@@ -1,8 +1,7 @@
-name: 🐛 Bug Report
-title: '🐛 Bug: <short description of the bug>'
-about: Do you believe you have found a bug?
-labels: 
-  - 'require-triage'
+name: 🐞 Bug Report
+title: '🐞 Bug: <short description of the bug>'
+description: Do you believe you have found a bug?
+labels: 'require-triage'
 type: Bug
 
 body:
@@ -32,7 +31,6 @@ body:
   - type: textarea
     attributes:
       label: Platform
-      render: text
       description: |
         UNIX: output of `uname -a`
         Windows: output of `"$([Environment]::OSVersion.VersionString) $(('x86', 'x64')[[Environment]::Is64BitOperatingSystem])"` in PowerShell console
@@ -52,7 +50,6 @@ body:
       required: true
 
   - type: textarea
-    labels: Minimal, Reproducible Example
     attributes:
       label: What steps will reproduce the bug?
       description: |
