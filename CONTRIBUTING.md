@@ -102,7 +102,7 @@ Use the `master` branch for bug fixes or minor work that is intended for the
 current release stream.
 
 Use the correspondingly named branch, e.g. `6.x`, for anything intended for
-a future release of paquete.
+a future release of package.
 
 ### Granular PRs
 
