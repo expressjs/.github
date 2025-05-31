@@ -1,4 +1,4 @@
-# Security Policies and Procedures
+# and Procedures
 
 This document outlines security procedures and general policies for the Express
 project.
