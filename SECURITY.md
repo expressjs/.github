@@ -15,7 +15,7 @@ We appreciate your efforts in responsible disclosure and will make every effort
 to acknowledge your contributions.  
 
 A [Security triage team member](https://github.com/expressjs/security-wg#security-triage-team) 
-or [the repo captain](https://github.com/expressjs/express/blob/master/Contributing.md#active-projects-and-captains) 
+or [the repo captain](https://github.com/expressjs/discussions/blob/HEAD/docs/contributing/captains_and_committers.md) 
 will acknowledge your report as soon as possible. 
 These timelines may extend when our triage 
 volunteers are away on holiday, particularly at the end of the year.
@@ -55,6 +55,12 @@ The lead maintainer will acknowledge your email within 48 hours and provide an i
 ### Third-Party Modules  
 
 If the security issue pertains to a third-party module that is not directly maintained within the Express ecosystem, please report it to the maintainers of that module.  
+
+## Pre-release Versions
+
+Alpha and Beta releases are unstable and **not suitable for production use**.
+Vulnerabilities found in pre-releases should be reported according to the [Reporting a Bug](#reporting-a-bug-or-security-vulnerability) section.
+Due to the unstable nature of the branch it is not guaranteed that any fixes will be released in the next pre-release.
 
 ## Disclosure Policy
 
