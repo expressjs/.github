@@ -44,6 +44,16 @@ This process applies to any repositories within the Express ecosystem.
 If you are unsure whether a repository falls under this policy, 
 feel free to reach out via email.  
 
+### Reporting via Bug Bounty (YesWeHack)
+
+If you wish to receive a financial reward for your security report, you may submit your findings through our official bug bounty program, hosted on YesWeHack.
+
+This program is supported by the [Sovereign Tech Resilience Program](https://www.sovereigntechfund.de/programs/bug-resilience) and offers rewards for qualifying vulnerabilities found in the Express core packages.
+
+For scope, rules, and submission instructions, visit:  
+➡️ [Express Bug Bounty Program on YesWeHack](https://yeswehack.com/business-units/sovereign-tech-fund/programs/express-js-bug-bounty-program/details)
+
+
 ### Reporting via Email  
 
 If you prefer, you can also report security issues by emailing `express-security@lists.openjsf.org`.  
