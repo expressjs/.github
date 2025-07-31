@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security Report
+    url: https://expressjs.com/en/resources/contributing.html#security-policies-and-procedures
+    about: Email security reports to the maintainer list serve
