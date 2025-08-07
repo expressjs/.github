@@ -8,9 +8,6 @@ Express has a open governance model. For information about the governance of the
 see the [GOVERNANCE.md](https://github.com/expressjs/discussions/blob/HEAD/docs/GOVERNANCE.md)
 document.
 
-> [!TIP]
-> For new contributors: Take a look at <https://github.com/firstcontributions/first-contributions> for helpful information on contributing
-
 ## Code of Conduct
 
 Everyone who participates in this project, either as a user or a contributor, is obliged
