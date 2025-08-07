@@ -1,8 +1,8 @@
 # Contributing to Express Ecosystem
 
 Thank you for your interest in contributing to the Express ecosystem! This document outlines
-how you can contribute to the Express project, including reporting issues, submitting code,
-and participating in discussions.
+how you can contribute to the Express project, including reporting issues, submitting pull requests,
+and participating in discussions and more.
 
 Express has a open governance model. For information about the governance of the Express project,
 see the [GOVERNANCE.md](https://github.com/expressjs/discussions/blob/HEAD/docs/GOVERNANCE.md)
@@ -14,6 +14,9 @@ Everyone who participates in this project, either as a user or a contributor, is
 to follow the project [Code of Conduct](https://github.com/expressjs/.github/blob/HEAD/CODE_OF_CONDUCT.md).
 
 ## Issues
+
+Submitting a pull request is not the only way to contribute to the Express project.
+You can also help by reporting issues, providing feedback, and participating in discussions.
 
 ### Reporting New Issues
 
@@ -68,19 +71,20 @@ If you post a question and do not outline the above items or make it easy for
 us to understand and reproduce your issue, it will be closed.
 
 If your question meets all of the above requirements but you do not believe it needs to be looked at
-by the maintainers (for example, if you are just looking for community input) please open it as a discussion
+by the maintainers (for example, if you are just looking for community input), please open it as a discussion
 topic instead of an issue. If you are unsure and open an issue, we may move it to discussions if we triage
 them and decide they do not need high visibility or maintainer input.
 
-### Resolving existing issues
+### Triaging Existing Issues
 
 You can help by contributing to issues that need attention.
 Check out this [guide](https://github.com/expressjs/discussions/blob/master/docs/contributing/triager-guide.md)
 to learn more about the triage process.
 
-### Website Issues
+### Website and Documentation Issues
 
-Open issues for the expressjs.com website in [https://github.com/expressjs/expressjs.com](https://github.com/expressjs/expressjs.com)
+If you find issues with the Express documentation or website, please report them in the
+[expressjs.com repository](https://github.com/expressjs/expressjs.com).
 
 ## Sending a Pull Request
 
@@ -133,17 +137,26 @@ In short, here’s how to contribute:
 
 1. Create an issue for the
    bug you want to fix or the feature that you want to add.
-2. Create your own fork on GitHub, then
-   checkout your fork.
-3. Write your code in your local copy. It's good practice to create a branch for
-   each new issue you work on, although not compulsory.
-4. To run the test suite, first install the dependencies by running `npm install`,
+2. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) and clone the repository to your local machine.
+3. Create a separate branch for your changes. This is important to keep
+   your work organized and to avoid conflicts with the main branch.
+   You can do this with `git checkout -b my-feature-branch`.
+   Replace `my-feature-branch` with a descriptive name for your branch.
+4. Write your code in your local copy.
+5. To run the test suite, first install the dependencies by running `npm install`,
    then run `npm test`.
-5. Ensure your code is linted by running `npm run lint`, fix any issue you
+6. Ensure your code is linted by running `npm run lint`, fix any issue you
    see listed.
-6. If the tests pass, you can commit your changes to your fork and then create
+7. If the tests pass, you can commit your changes to your fork and then create
    a pull request from there. Make sure to reference your issue from the pull
    request comments by including the issue number e.g. `#123`.
+
+## More Resources
+
+- Triager Guide: <https://github.com/expressjs/discussions/blob/master/docs/contributing/triager-guide.md>
+- Governance: <https://github.com/expressjs/discussions/blob/master/docs/GOVERNANCE.md>
+- Release Guide: <https://github.com/expressjs/discussions/blob/master/docs/contributing/release-process.md>
+- Slack: <https://slack-invite.openjsf.org/>
 
 ## Developer's Certificate of Origin 1.1
 
