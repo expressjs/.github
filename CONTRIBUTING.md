@@ -8,6 +8,9 @@ Express has a open governance model. For information about the governance of the
 see the [GOVERNANCE.md](https://github.com/expressjs/discussions/blob/HEAD/docs/GOVERNANCE.md)
 document.
 
+> [!TIP]
+> For new contributors: Take a look at <https://github.com/firstcontributions/first-contributions> for helpful information on contributing
+
 ## Code of Conduct
 
 Everyone who participates in this project, either as a user or a contributor, is obliged
@@ -83,8 +86,17 @@ to learn more about the triage process.
 
 ### Website and Documentation Issues
 
-If you find issues with the Express documentation or website, please report them in the
-[expressjs.com repository](https://github.com/expressjs/expressjs.com).
+There are two main ways you can help improve Express documentation:
+
+- **Repository Documentation Issues:**  
+  
+   If you spot mistakes or areas for improvement in this repository’s documentation (such as guides, README content, or inline API docs), please open an issue here. Your feedback helps us keep our docs accurate and useful for everyone.
+
+- **Website Documentation Issues:**  
+
+   If you notice errors or have suggestions for the Express website—like problems in guides, API documentation, or other website content—please report them in the [`expressjs/expressjs.com` repository](https://github.com/expressjs/expressjs.com).
+
+We encourage you to participate! Whether you’re fixing a typo or suggesting a new guide, your contributions make a difference. Open an issue in the right place and help us make Express documentation better for the whole community.
 
 ## Sending a Pull Request
 
@@ -115,12 +127,9 @@ as it makes reviews harder, delays merges, and complicates semantic titles
 
 ### Pull Request Reviews
 
-When a PR is not in draft, it's considered ready for review. Please don't manually
-tag anybody to request review. A maintainer will take a look when they're able and
-will tag whoever they think is best suited to review it.
+When a PR is not in draft, it is considered ready for review. You do not need to be a maintainer to review or comment on a PR, everyone is welcome to provide constructive feedback and suggestions! If you have time, please check open PRs and help improve the project. Do not manually tag anyone to request a review; a maintainer will assign reviewers as needed.
 
-PRs should have passing GitHub status checks before review is requested (unless there
-are explicit questions asked in the PR about any failures).
+Before requesting a review, make sure all GitHub checks are passing, unless you have specific questions about a failure.
 
 ### Requested Changes
 
