@@ -14,8 +14,8 @@ Thank you for improving the security of Express and related projects.
 We appreciate your efforts in responsible disclosure and will make every effort 
 to acknowledge your contributions.  
 
-A [Security triage team member](https://github.com/expressjs/security-wg#security-triage-team) 
-or [the repo captain](https://github.com/expressjs/express/blob/master/Contributing.md#active-projects-and-captains) 
+A [Security triage team member](https://github.com/expressjs/security-wg#security-triage-team-expressjssecurity-triage) 
+or [the repo captain](https://github.com/expressjs/discussions/blob/master/docs/contributing/captains_and_committers.md) 
 will acknowledge your report as soon as possible. 
 These timelines may extend when our triage 
 volunteers are away on holiday, particularly at the end of the year.
@@ -25,7 +25,7 @@ endeavor to keep you informed of the progress towards a fix and full
 announcement, and may ask for additional information or guidance.
 
 > [!NOTE]  
-> You can find more information about our process in [this guide](https://github.com/expressjs/security-wg/blob/main/docs/handle_security_reports.md)
+> You can find more information about our process in [this guide](https://github.com/expressjs/security-wg/blob/main/docs/incident_response_plan.md)
 
 
 ### Reporting Security Bugs via GitHub Security Advisory (Preferred)  
