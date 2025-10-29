@@ -6,6 +6,7 @@ project.
   * [Reporting a Bug or Security Vulnerability](#reporting-a-bug-or-security-vulnerability)
   * [Disclosure Policy](#disclosure-policy)
   * [Comments on this Policy](#comments-on-this-policy)
+  * [escalate to the OpenJS Foundation CNA](#escalate-to-the-openjs-foundation-cna)
 
 ## Reporting a Bug or Security Vulnerability  
 
@@ -71,3 +72,9 @@ involving the following steps:
 
 If you have suggestions on how this process could be improved please submit a
 pull request.
+
+# Escalate to the OpenJS Foundation CNA
+
+If you do not receive an acknowledgement of your report within **6 business days**, or if you cannot find a private security contact for the project, you may **escalate to the OpenJS Foundation CNA** at `security@lists.openjsf.org`.
+
+If the project acknowledges your report but does not provide any further response or engagement within **14 days**, escalation is also appropriate.
