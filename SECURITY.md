@@ -10,6 +10,9 @@ project.
 
 ## Reporting a Bug or Security Vulnerability  
 
+> [!IMPORTANT]
+> Before reporting a vulnerability, please review the [Express Threat Model](#the-express-threat-model) to check if the issue falls within Express's security scope.
+
 The Express team and community take all security vulnerabilities seriously. 
 Thank you for improving the security of Express and related projects. 
 We appreciate your efforts in responsible disclosure and will make every effort 
@@ -75,4 +78,8 @@ pull request.
 
 ## The Express Threat Model
 
-The most updated version can be found [here](https://github.com/expressjs/security-wg/blob/main/docs/ThreatModel.md)
+The Express threat model defines the boundaries of what the framework considers its security responsibility. It establishes which elements are trusted (such as the developer, the runtime environment, and application code) versus untrusted (such as data from network connections). Issues arising from trusted elements are considered out of scope, while Express is responsible for safely handling untrusted data.
+
+Many commonly reported concerns fall outside Express's security scope and are the responsibility of the application developer. Such as prototype pollution from unsanitized user input, misconfigured static file serving, or issues in third-party dependencies.
+
+For complete details, see the [Express Threat Model](https://github.com/expressjs/security-wg/blob/main/docs/ThreatModel.md).
