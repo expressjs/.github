@@ -52,7 +52,7 @@ Note: Issues without a reproducible example may be closed.
 
 If you believe you have found a security vulnerability in a package maintained by the Express project,
 please do not open a public issue or pull request. Instead, follow the instructions in the
-[Security Policy](https://github.com/expressjs/.github/blob/master/SECURITY.md)
+[Security Policy](https://github.com/expressjs/.github/blob/HEAD/SECURITY.md)
 
 #### Issues which are questions
 
