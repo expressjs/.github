@@ -1,0 +1,40 @@
+name: ❓ Question
+description: Seeking help or have a question about usage?
+title: '❓ question: <short description of the question>'
+labels: 
+  - "question"
+  - "require-triage"
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you for your question!**
+        To help us better understand and assist you, please fill out the following sections with the relevant details.
+
+        Please note that we can't debug your entire application for you, but we're happy to help answer specific questions.
+
+        You can also connect with the community in the OpenJS Slack workspace:
+
+        * [Join Slack](https://slack-invite.openjsf.org/)
+        * [#express channel](https://openjs-foundation.slack.com/archives/C02QB1731FH)
+         
+        
+  - type: checkboxes
+    attributes:
+      label: Question Checklist
+      description: If any of these required steps are missed, we might not be able to review your issue.
+      options:
+        - label: I have read and agree to Express's [Code of Conduct](https://github.com/expressjs/.github/blob/master/CODE_OF_CONDUCT.md)
+          required: true
+        - label: I have searched for related issues but none matched my issue.
+          required: true
+  
+  - type: textarea
+    attributes:
+      label: Question
+      description: |
+        Please provide a clear and concise description of your question or the issue you're facing.
+        Include any relevant code snippets, error messages, or context that will help us understand your question better.
+    validations:
+      required: true

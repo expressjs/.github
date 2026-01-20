@@ -1,0 +1,36 @@
+name: 🚀 Feature Request
+title: '🚀 feature: <short description of the feature>'
+description: 'Do you want to make a feature request?'
+type: Feature
+labels: 
+  - "ideas"
+  - "require-triage"
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for submitting a feature request! Please fill out the following sections to help us understand the request.
+  - type: checkboxes
+    attributes:
+      label: Feature Request Checklist
+      description: If any of these required steps are missed, we might not be able to review your issue.
+      options:
+        - label: I have read and agree to Express's [Code of Conduct](https://github.com/expressjs/.github/blob/master/CODE_OF_CONDUCT.md)
+          required: true
+        - label: I have searched for related issues but none matched my issue.
+          required: true
+  - type: textarea
+    attributes:
+      description: What is the feature gap or problem you'd like to address?
+      label: Overview
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      description: Please describe the feature you would like to see implemented.
+      label: How should this be implemented in your opinion?
+  - type: textarea
+    attributes:
+      description: Any additional info you'd like to provide.
+      label: Additional Info
