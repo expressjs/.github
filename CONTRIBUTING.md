@@ -124,7 +124,7 @@ as it makes reviews harder, delays merges, and complicates semantic titles
 
 ### Pull Request Reviews
 
-When a PR is not in draft, it is considered ready for review. You do not need to be a maintainer to review or comment on a PR, everyone is welcome to provide constructive feedback and suggestions! If you have time, please check open PRs and help improve the project. Do not manually tag anyone to request a review; a maintainer will assign reviewers as needed.
+When a PR is not in draft, it is considered ready for review. You do not need to be a maintainer to review or comment on a PR, everyone is welcome to provide constructive feedback and suggestions! If you have time, please check open PRs and help improve the project. **Do not manually tag anyone to request a review**; a maintainer will assign reviewers as needed.
 
 Before requesting a review, make sure all GitHub checks are passing, unless you have specific questions about a failure.
 
@@ -159,10 +159,10 @@ In short, here’s how to contribute:
 
 ## More Resources
 
-- Triager Guide: <https://github.com/expressjs/discussions/blob/master/docs/contributing/triager-guide.md>
-- Governance: <https://github.com/expressjs/discussions/blob/master/docs/GOVERNANCE.md>
-- Release Guide: <https://github.com/expressjs/discussions/blob/master/docs/contributing/release-process.md>
-- Slack: <https://slack-invite.openjsf.org/>
+- Triager Guide: <https://github.com/expressjs/discussions/blob/HEAD/docs/contributing/triager-guide.md>
+- Governance: <https://github.com/expressjs/discussions/blob/HEAD/docs/GOVERNANCE.md>
+- Release Guide: <https://github.com/expressjs/discussions/blob/HEAD/docs/contributing/release-process.md>
+- Slack: <https://slack-invite.openjsf.org/> - We're in all channels that start with `express`.
 
 ## Developer's Certificate of Origin 1.1
 
