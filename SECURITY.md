@@ -46,15 +46,11 @@ To report a vulnerability
 
 This process applies to any repositories within the Express ecosystem. 
 If you are unsure whether a repository falls under this policy, 
-feel free to reach out via email.  
+use the express repository
 
 ### Reporting via Email  
 
-If you prefer, you can also report security issues by emailing `express-security@lists.openjsf.org`.  
-
-To ensure a timely response, please include all relevant details directly in the email body rather than linking to external sources or attaching files.  
-
-The lead maintainer will acknowledge your email within 48 hours and provide an initial response outlining the next steps. The security team will keep you updated on the progress and may request additional details.  
+We don't accept reports via emails anymore.
 
 ### Third-Party Modules  
 
