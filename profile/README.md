@@ -317,3 +317,4 @@ To create a nested list using the web editor on GitHub or a text editor that use
 
 > \[!NOTE]
 > In the web-based editor, you can indent or dedent one or more lines of text by first highlighting the desired lines and then using <kbd>Tab</kbd> or <kbd>Shift</kbd>+<kbd>Tab</
+> 
