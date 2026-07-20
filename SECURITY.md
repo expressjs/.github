@@ -6,7 +6,6 @@ project.
   * [Reporting a Bug or Security Vulnerability](#reporting-a-bug-or-security-vulnerability)
   * [Disclosure Policy](#disclosure-policy)
   * [Comments on this Policy](#comments-on-this-policy)
-  * [The Express Threat Model](#the-express-threat-model)
 
 ## Reporting a Bug or Security Vulnerability  
 
@@ -75,11 +74,3 @@ involving the following steps:
 
 If you have suggestions on how this process could be improved please submit a
 pull request.
-
-## The Express Threat Model
-
-The Express threat model defines the boundaries of what the framework considers its security responsibility. It establishes which elements are trusted (such as the developer, the runtime environment, and application code) versus untrusted (such as data from network connections). Issues arising from trusted elements are considered out of scope, while Express is responsible for safely handling untrusted data.
-
-Many commonly reported concerns fall outside Express's security scope and are the responsibility of the application developer. Such as prototype pollution from unsanitized user input, misconfigured static file serving, or issues in third-party dependencies.
-
-For complete details, see the [Express Threat Model](https://github.com/expressjs/security-wg/blob/main/docs/ThreatModel.md).

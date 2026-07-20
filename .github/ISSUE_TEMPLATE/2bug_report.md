@@ -2,7 +2,6 @@
 name: 🐛 Bug Report
 about: Do you believe you have found a bug?
 labels: ["bug", "require-triage"]
-type: Bug
 ---
 
 <!-- The process for bug fixing is:
